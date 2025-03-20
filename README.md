@@ -1,3 +1,5 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{ricardorf2022}/{COP2600Project}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+
 Produce Stand Inventory Management System
 Overview
 This project is a simple inventory management system for a produce stand. It allows users to add, remove, find, update, view, save, and load product information. The program is built using C++ and uses file handling to save and retrieve inventory data.
