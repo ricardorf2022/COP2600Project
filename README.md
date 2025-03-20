@@ -1,4 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ricardorf2022/COP2600Project/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10200/badge)](https://www.bestpractices.dev/projects/10200)
 
 Produce Stand Inventory Management System
 Overview
